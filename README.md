@@ -1,4 +1,4 @@
-We will Post the Title soon (The paper is under review)
+**We will Post the Title soon (The paper is under review)**
 
 This repository contains the official implementation of our SFSCIL framework. 
 
