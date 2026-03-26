@@ -1,4 +1,4 @@
-**SFSCIL:Vision-Language Geometry as a Shared Anchor for Semi-Supervised Class-Incremental Learning via Knowledge Distillation**
+We will Post the Title soon (The paper is under review)
 
 This repository contains the official implementation of our SFSCIL framework. 
 
